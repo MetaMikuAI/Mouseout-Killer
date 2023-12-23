@@ -5,6 +5,7 @@
 // @warning      本脚本请在下载后24h内删除，本脚本未进行后台检验，由此脚本造成的一切后果由使用者自负
 // @version      0.1
 // @match        *://*.chaoxing.com/*
+// @downloadURL  https://github.com/MetaMikuAI/Mouseout-Killer/blob/main/script.js
 // @license      MIT
 // ==/UserScript==
 
